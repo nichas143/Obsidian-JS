@@ -1,0 +1,1 @@
+Coercion are implicit change in data type in JS 

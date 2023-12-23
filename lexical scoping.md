@@ -1,0 +1,2 @@
+- Lexical scoping happens at the [[compile phase]]. 
+- 
