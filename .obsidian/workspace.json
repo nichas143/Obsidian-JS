@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scope chain.md",
+                "file": "global scope.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scope chain.md",
+                "file": "global scope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scope chain.md",
+                "file": "global scope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scope chain.md"
+                "file": "global scope.md"
               }
             }
           }
@@ -226,7 +226,11 @@
   },
   "active": "7b11faf3c63f8baa",
   "lastOpenFiles": [
+    "lexical scoping.md",
     "excalibrain.md",
+    "global scope.md",
+    "Start.md",
+    "Types.md",
     "scope chain.md",
     "arrow functions.md",
     "images/Screenshot 2023-12-23 at 9.39.48 AM.png",
@@ -241,9 +245,7 @@
     "var.md",
     "shadowing.md",
     "images/Screenshot 2023-12-22 at 10.30.15 PM.png",
-    "Start.md",
     "compile phase.md",
-    "lexical scoping.md",
     "Coercion.md",
     "hoisting.md",
     "temporal dead zone.md",
@@ -257,8 +259,6 @@
     "Iterable.md",
     "array.md",
     "const.md",
-    "Declaring of variables.md",
-    "let.md",
     "functions",
     "Class",
     "Excalidraw"
