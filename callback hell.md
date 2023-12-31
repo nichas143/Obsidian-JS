@@ -1,0 +1,1 @@
+Callback hell refers to a situation where multiple nested callback functions lead to complex and unmanageable code in asynchronous programming.

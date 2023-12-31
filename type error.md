@@ -1,0 +1,1 @@
+- type errors are errors encountered during execution phase. 

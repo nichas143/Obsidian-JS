@@ -1,0 +1,1 @@
+- This is where JavaScript executes function calls. When a function is called, it is added (pushed) to the stack. When the function returns, it is removed (popped) from the stack.

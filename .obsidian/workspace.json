@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2ce6166f23276abb",
+            "id": "730b7a6fe5fdb342",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lexical scoping.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7c0008ee415bb74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "compile phase.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f857c243ae79709b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Start.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "878c7bd27e3e588a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b11faf3c63f8baa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "global scope.md",
+                "file": "generators.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,25 +21,6 @@
           },
           {
             "id": "5bc221e9c6db4725",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "temporal dead zone.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "c2bc4f010e779a5e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "816baf072644febb",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -146,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 252.5
   },
   "right": {
     "id": "e73b56eab310062a",
@@ -162,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "global scope.md",
+                "file": "generators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "global scope.md",
+                "file": "generators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "global scope.md"
+                "file": "generators.md"
               }
             }
           }
@@ -224,41 +157,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7b11faf3c63f8baa",
+  "active": "730b7a6fe5fdb342",
   "lastOpenFiles": [
-    "lexical scoping.md",
+    "Screenshot 2023-12-30 at 11.43.20 PM.png",
+    "Screenshot 2023-12-30 at 11.27.05 PM.png",
+    "Screenshot 2023-12-30 at 10.25.47 PM.png",
+    "debugging.md",
+    "generators.md",
+    "promise.md",
+    "this.md",
     "excalibrain.md",
-    "global scope.md",
-    "Start.md",
-    "Types.md",
-    "scope chain.md",
+    "event loop.md",
+    "binding.md",
+    "MathJax vs Katex Research/See the following links.md",
+    "objects.md",
+    "callback hell.md",
+    "Concurrency.md",
+    "job queue.md",
+    "higher order function.md",
+    "var.md",
+    "array.md",
     "arrow functions.md",
+    "call stack.md",
+    "Untitled.md",
+    "global scope.md",
+    "lexical scoping.md",
+    "compile phase.md",
+    "Start.md",
+    "callback.md",
+    "temporal dead zone.md",
+    "hoisting.md",
+    "MathJax vs Katex Research",
+    "images/Screenshot 2023-12-24 at 12.46.56 AM.png",
+    "images/Screenshot 2023-12-24 at 12.44.32 AM.png",
+    "images/Screenshot 2023-12-23 at 2.45.50 PM.png",
+    "images/Screenshot 2023-12-23 at 4.44.37 PM.png",
+    "images/Screenshot 2023-12-23 at 4.43.12 PM.png",
     "images/Screenshot 2023-12-23 at 9.39.48 AM.png",
     "images/Screenshot 2023-12-23 at 9.39.34 AM.png",
-    "functions/function expressions.md",
     "images/Screenshot 2023-12-23 at 9.30.26 AM.png",
-    "functions/function declarations.md",
-    "images/Screenshot 2023-12-23 at 9.27.52 AM.png",
-    "Functions.md",
-    "prototype object.md",
-    "this.md",
-    "var.md",
-    "shadowing.md",
-    "images/Screenshot 2023-12-22 at 10.30.15 PM.png",
-    "compile phase.md",
-    "Coercion.md",
-    "hoisting.md",
-    "temporal dead zone.md",
-    "Closure.md",
-    "Scope.md",
-    "Untitled.md",
     "images",
-    "images/Screenshot 2023-12-22 at 5.05.43 PM.png",
-    "execution context.md",
-    "Comparisons.md",
-    "Iterable.md",
-    "array.md",
-    "const.md",
     "functions",
     "Class",
     "Excalidraw"
